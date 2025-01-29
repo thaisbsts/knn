@@ -1,8 +1,14 @@
 <h1 align="center" style="font-weight: bold;">K-Nearest Neighbors (KNN) 💻</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</p>
+<div align="center">
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </div>
+</div>
+
 
 <p align="center">
  <a href="#started">Informações Gerais</a> • 
